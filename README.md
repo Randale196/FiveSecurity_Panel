@@ -180,9 +180,7 @@ $website_config = [
 
 ## 📞 Support
 
-- **Discord**: [FiveSecurity Discord](https://discord.gg/fivesecurity)
-- **Documentation**: [docs.fivesecurity.de](https://docs.fivesecurity.de/)
-- **FAQ**: Integrated FAQ system in the panel
+- **Support**: Its not supported by me.
 
 ## 📄 License
 
