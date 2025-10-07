@@ -207,4 +207,4 @@ Contributions are welcome! Please create a pull request for improvements or bug 
 
 ---
 
-**FiveSecurity Panel** - Professional FiveM Anticheat Management System
+**FiveSecurity Panel**  FiveM Anticheat Management website
